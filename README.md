@@ -15,25 +15,25 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFkZTY3dHpydTA2ZjM3M3cza250bXMweWF4eDhlajcwdWRmbjVqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" height="200"/>
+
 <div align="left">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFkZTY3dHpydTA2ZjM3M3cza250bXMweWF4eDhlajcwdWRmbjVqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" height="200"/>
-</div>
 
----
-
-### :man_technologist: About Me :
+#### :man_technologist: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
-- :telescope: I’m working as a Student and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Student and contributing to frontend and backend for building web applications project.
 
 - :seedling: Exploring Technical Web development.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hafid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m-hafid-afandi-23b725245/)
 
----
+- <p><em>Informatics Engineering students at <a href="https://www.unesa.ac.id/">State University of Surabaya</a></em></p>
+
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -56,3 +56,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+
+<img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MHafidafandi&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="MHafidafandi's GitHub Stats">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MHafidafandi&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHafidafandi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
