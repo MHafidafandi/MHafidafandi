@@ -1,9 +1,9 @@
-## Hi there 👋
+
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTE1aWlwNXNnNGpseHMzYm45cDczdjd5MjZqNWthYjhlN2JuMjZ5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VuZhSgPi5ItibCdSoZ/giphy.gif" width="100"/>
+  ## Hi there 👋
 </div>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/m-hafid-afandi-23b725245/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
