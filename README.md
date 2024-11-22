@@ -61,8 +61,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-<img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MHafidafandi&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="MHafidafandi's GitHub Stats">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MHafidafandi&theme=dark&background=000000)](https://git.io/streak-stats)
+|<img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MHafidafandi&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="MHafidafandi's GitHub Stats"> <img width="320px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mhafidafandi&hide_border=true&theme=tokyonight">|
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHafidafandi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🤝🏻 Connect with Me!
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafidafanditng@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhafid_a)
+
+Need a passionate computer science student specialize in back-end web development? don't hesitate to get in touch and let's collaborate.🤝
