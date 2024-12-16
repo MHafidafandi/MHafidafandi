@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hafid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m-hafid-afandi-23b725245/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hafid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hafid-afandi-23b725245/)
 
 - <p><em>Informatics Engineering students at <a href="https://www.unesa.ac.id/">State University of Surabaya</a></em></p>
 
